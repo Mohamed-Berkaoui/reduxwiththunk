@@ -1,5 +1,4 @@
-import Navigator from "./components/Navigator";
-import { useDispatch, useSelector } from "react-redux";
+import { useDispatch } from "react-redux";
 import FetchProducts from "./utils/fetchProducts";
 import Home from "./pages/Home";
 import { Route, Routes } from "react-router";
